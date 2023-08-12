@@ -2,3 +2,9 @@ A PROGRAM THAT ALLOWS YOU TO CONTROL WHICH NETWORK WPA_SUPPLICANT CONNECTS TO
 
 make
 sudo make install
+
+sudo wifiorder
+sudo startwifi
+sudo stopwifi
+sudo startwifi
+sudo restartwifi
