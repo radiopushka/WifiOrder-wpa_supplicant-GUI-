@@ -8,3 +8,7 @@ sudo startwifi
 sudo stopwifi
 sudo startwifi
 sudo restartwifi
+
+requires macchanger (can comment out the line if you don't need it)
+and requires wpa_supplicant/wpa_passphrase
+finally requires all basic linux command line utils
